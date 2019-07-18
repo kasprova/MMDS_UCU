@@ -1,0 +1,63 @@
+neighbourhood,room_type,avg_price
+Bijlmer-Centrum,Entire home/apt,77.95
+Bijlmer-Centrum,Private room,51.51
+Bijlmer-Oost,Entire home/apt,98.64
+Bijlmer-Oost,Private room,51.86
+Bos en Lommer,Entire home/apt,106.3
+Bos en Lommer,Private room,67.46
+Bos en Lommer,Shared room,45.67
+Buitenveldert - Zuidas,Entire home/apt,117.44
+Buitenveldert - Zuidas,Private room,69.07
+Buitenveldert - Zuidas,Shared room,40.0
+Centrum-Oost,Entire home/apt,171.04
+Centrum-Oost,Private room,109.29
+Centrum-Oost,Shared room,180.2
+Centrum-West,Entire home/apt,179.25
+Centrum-West,Private room,108.99
+Centrum-West,Shared room,160.4
+De Aker - Nieuw Sloten,Entire home/apt,106.76
+De Aker - Nieuw Sloten,Private room,70.35
+De Aker - Nieuw Sloten,Shared room,25.0
+De Baarsjes - Oud-West,Entire home/apt,136.38
+De Baarsjes - Oud-West,Private room,81.01
+De Baarsjes - Oud-West,Shared room,48.08
+De Pijp - Rivierenbuurt,Entire home/apt,143.34
+De Pijp - Rivierenbuurt,Private room,95.1
+De Pijp - Rivierenbuurt,Shared room,52.95
+Gaasperdam - Driemond,Entire home/apt,130.28
+Gaasperdam - Driemond,Private room,62.86
+Gaasperdam - Driemond,Shared room,56.72
+Geuzenveld - Slotermeer,Entire home/apt,126.13
+Geuzenveld - Slotermeer,Private room,56.14
+Geuzenveld - Slotermeer,Shared room,40.38
+IJburg - Zeeburgereiland,Entire home/apt,156.75
+IJburg - Zeeburgereiland,Private room,71.55
+Noord-Oost,Entire home/apt,112.6
+Noord-Oost,Private room,65.87
+Noord-Oost,Shared room,30.0
+Noord-West,Entire home/apt,127.01
+Noord-West,Private room,62.86
+Noord-West,Shared room,41.0
+Oostelijk Havengebied - Indische Buurt,Entire home/apt,134.37
+Oostelijk Havengebied - Indische Buurt,Private room,82.37
+Oostelijk Havengebied - Indische Buurt,Shared room,197.42
+Osdorp,Entire home/apt,112.44
+Osdorp,Private room,70.71
+Osdorp,Shared room,85.0
+Oud-Noord,Entire home/apt,145.65
+Oud-Noord,Private room,99.22
+Oud-Noord,Shared room,40.0
+Oud-Oost,Entire home/apt,128.02
+Oud-Oost,Private room,75.83
+Oud-Oost,Shared room,76.18
+Slotervaart,Entire home/apt,124.81
+Slotervaart,Private room,66.23
+Watergraafsmeer,Entire home/apt,123.73
+Watergraafsmeer,Private room,95.02
+Watergraafsmeer,Shared room,99.45
+Westerpark,Entire home/apt,135.17
+Westerpark,Private room,90.45
+Westerpark,Shared room,90.58
+Zuid,Entire home/apt,149.35
+Zuid,Private room,88.86
+Zuid,Shared room,75.0
